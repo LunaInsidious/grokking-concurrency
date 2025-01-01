@@ -1,0 +1,33 @@
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 85.81705057299405s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 89.78806471899588s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 80.85743148600159s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 86.18756538399612s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 86.37198228100169s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 82.46184796399757s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 82.58990954999899s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 86.41216957500001s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 78.2787564579994s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 79.37272250200476s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 74.58686989299895s

@@ -1,0 +1,175 @@
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 73.6034146680031s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 74.48656698799459s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 67.6228849149993s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.1292543909949s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.16407685900049s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.089471603001584s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.29649810800038s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.52575494100165s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 48.1411185399993s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 46.84525905199553s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 45.30145227700268s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 44.52798904899828s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 44.59324589600146s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 45.18149116099812s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 44.88601973299956s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 45.1920721610004s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 45.09954237000056s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 44.922912793997966s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 45.797075374001s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 44.652984767002636s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.28725623299397s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.74911371800408s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 33.99182201100484s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.0559825119999s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.61908134999976s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.17755316599505s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.04062750899902s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.96931039300398s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.077041554999596s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 34.052244874997996s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.48361711299367s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.856562300003134s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 43.92299923499377s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.39771153800393s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 48.61292778599454s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 41.876102460002585s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.4326937569931s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.66898668000067s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.87658905200078s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 47.54000979600096s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.398s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.545s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.971s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.913s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.979s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.937s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 6.038s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 5.964s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 6.347s
+Processing number combinations in parallel using ProcessPoolExecutor...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 6.647s
+Script: password_cracking_sequential.py
+  実行回数: 10
+  平均実行時間: 55.380552 秒
+  分散: 131.952319
+
+Script: password_cracking_sequential_refactor.py
+  実行回数: 10
+  平均実行時間: 45.031019 秒
+  分散: 0.132943
+
+Script: password_cracking_sequential_async.py
+  実行回数: 10
+  平均実行時間: 34.367034 秒
+  分散: 0.109217
+
+Script: password_cracking_sequential_parallel.py
+  実行回数: 10
+  平均実行時間: 46.787064 秒
+  分散: 4.060814
+
+Script: password_cracking_sequential_concurrency.py
+  実行回数: 10
+  平均実行時間: 6.003572 秒
+  分散: 0.112056
+
