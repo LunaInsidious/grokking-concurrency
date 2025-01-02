@@ -1,0 +1,450 @@
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 75.02786654499505s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 74.12736812199728s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 78.39708371199958s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 73.80295005299558s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 76.96791927500453s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.52764630100137s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 76.10267717699753s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 73.0988678950016s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.64779543099576s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 76.2427594549954s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 68.45743607899931s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 69.69423501200072s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 67.60207401299704s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 68.35427614099899s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.16606227099692s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.87943483399431s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 73.86227898699872s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.9294660749947s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.2735451089975s
+Processing number combinations sequentially
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 71.51594263700099s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 52.15016352599923s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 51.529259155002364s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 53.03008597200096s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 53.97825696099608s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 52.57303763899836s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 55.7981418759955s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 51.71970244299882s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 51.22777250800573s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 51.82178156500595s
+Processing number combinations asynchronously...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 51.6102609160007s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 69.84096717600187s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 81.8113827920024s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 77.23156655699131s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 83.34412468000664s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 74.26219454700185s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 84.35955552899395s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 82.66775958100334s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 82.01904573698994s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 83.66159968399734s
+Processing number combinations concurrently (ThreadPoolExecutor)...
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 86.7468747820094s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.454s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.479s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.850s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.953s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.383s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.296s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.596s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.080s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 10.140s
+Processing number combinations in parallel using ProcessPoolExecutor...
+Chunk size: 4545454 (available CPU cores: 22) (total range: 100000000)
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.603s
+Processing number combinations concurrently
+Processing 9090909 to 13636362
+Processing 95454544 to 99999999
+Processing 45454545 to 49999998
+Processing 27272727 to 31818180
+Processing 77272726 to 81818180
+Processing 86363635 to 90909089
+Processing 54545454 to 59090907
+Processing 72727272 to 77272725
+Processing 49999999 to 54545453
+Processing 4545454 to 9090908
+Processing 31818181 to 36363635
+Processing 63636363 to 68181816
+Processing 40909090 to 45454544
+Processing 22727272 to 27272726
+Processing 18181818 to 22727271
+Processing 68181817 to 72727271
+Processing 59090908 to 63636362
+Processing 90909090 to 95454543
+Processing 81818181 to 86363634
+Processing 0 to 4545453
+Processing 13636363 to 18181817
+Processing 36363636 to 40909089
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.752061687991954s
+Processing number combinations concurrently
+Processing 86363635 to 90909089
+Processing 22727272 to 27272726
+Processing 45454545 to 49999998
+Processing 31818181 to 36363635
+Processing 72727272 to 77272725
+Processing 0 to 4545453
+Processing 49999999 to 54545453
+Processing 36363636 to 40909089
+Processing 13636363 to 18181817
+Processing 95454544 to 99999999
+Processing 59090908 to 63636362
+Processing 90909090 to 95454543
+Processing 27272727 to 31818180
+Processing 77272726 to 81818180
+Processing 68181817 to 72727271
+Processing 4545454 to 9090908
+Processing 81818181 to 86363634
+Processing 54545454 to 59090907
+Processing 9090909 to 13636362
+Processing 18181818 to 22727271
+Processing 63636363 to 68181816
+Processing 40909090 to 45454544
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.680302171997027s
+Processing number combinations concurrently
+Processing 40909090 to 45454544
+Processing 59090908 to 63636362
+Processing 86363635 to 90909089
+Processing 63636363 to 68181816
+Processing 18181818 to 22727271
+Processing 49999999 to 54545453
+Processing 81818181 to 86363634
+Processing 68181817 to 72727271
+Processing 4545454 to 9090908
+Processing 54545454 to 59090907
+Processing 90909090 to 95454543
+Processing 27272727 to 31818180
+Processing 31818181 to 36363635
+Processing 77272726 to 81818180
+Processing 45454545 to 49999998
+Processing 95454544 to 99999999
+Processing 22727272 to 27272726
+Processing 72727272 to 77272725
+Processing 13636363 to 18181817
+Processing 0 to 4545453
+Processing 36363636 to 40909089
+Processing 9090909 to 13636362
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.486141009008861s
+Processing number combinations concurrently
+Processing 86363635 to 90909089
+Processing 0 to 4545453
+Processing 27272727 to 31818180
+Processing 13636363 to 18181817
+Processing 90909090 to 95454543
+Processing 72727272 to 77272725
+Processing 4545454 to 9090908
+Processing 40909090 to 45454544
+Processing 54545454 to 59090907
+Processing 49999999 to 54545453
+Processing 45454545 to 49999998
+Processing 18181818 to 22727271
+Processing 22727272 to 27272726
+Processing 77272726 to 81818180
+Processing 63636363 to 68181816
+Processing 95454544 to 99999999
+Processing 31818181 to 36363635
+Processing 59090908 to 63636362
+Processing 9090909 to 13636362
+Processing 81818181 to 86363634
+Processing 68181817 to 72727271
+Processing 36363636 to 40909089
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 10.030683438002598s
+Processing number combinations concurrently
+Processing 77272726 to 81818180
+Processing 49999999 to 54545453
+Processing 81818181 to 86363634
+Processing 36363636 to 40909089
+Processing 22727272 to 27272726
+Processing 86363635 to 90909089
+Processing 45454545 to 49999998
+Processing 4545454 to 9090908
+Processing 9090909 to 13636362
+Processing 31818181 to 36363635
+Processing 63636363 to 68181816
+Processing 27272727 to 31818180
+Processing 72727272 to 77272725
+Processing 40909090 to 45454544
+Processing 95454544 to 99999999
+Processing 18181818 to 22727271
+Processing 90909090 to 95454543
+Processing 59090908 to 63636362
+Processing 68181817 to 72727271
+Processing 0 to 4545453
+Processing 13636363 to 18181817
+Processing 54545454 to 59090907
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 10.114618191990303s
+Processing number combinations concurrently
+Processing 4545454 to 9090908
+Processing 13636363 to 18181817
+Processing 27272727 to 31818180
+Processing 86363635 to 90909089
+Processing 81818181 to 86363634
+Processing 77272726 to 81818180
+Processing 90909090 to 95454543
+Processing 68181817 to 72727271
+Processing 45454545 to 49999998
+Processing 31818181 to 36363635
+Processing 72727272 to 77272725
+Processing 49999999 to 54545453
+Processing 63636363 to 68181816
+Processing 40909090 to 45454544
+Processing 54545454 to 59090907
+Processing 36363636 to 40909089
+Processing 0 to 4545453
+Processing 95454544 to 99999999
+Processing 9090909 to 13636362
+Processing 22727272 to 27272726
+Processing 18181818 to 22727271
+Processing 59090908 to 63636362
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.437646456004586s
+Processing number combinations concurrently
+Processing 4545454 to 9090908
+Processing 22727272 to 27272726
+Processing 77272726 to 81818180
+Processing 40909090 to 45454544
+Processing 95454544 to 99999999
+Processing 49999999 to 54545453
+Processing 36363636 to 40909089
+Processing 86363635 to 90909089
+Processing 0 to 4545453
+Processing 31818181 to 36363635
+Processing 59090908 to 63636362
+Processing 13636363 to 18181817
+Processing 54545454 to 59090907
+Processing 81818181 to 86363634
+Processing 18181818 to 22727271
+Processing 9090909 to 13636362
+Processing 27272727 to 31818180
+Processing 90909090 to 95454543
+Processing 45454545 to 49999998
+Processing 72727272 to 77272725
+Processing 63636363 to 68181816
+Processing 68181817 to 72727271
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.816537070000777s
+Processing number combinations concurrently
+Processing 86363635 to 90909089
+Processing 45454545 to 49999998
+Processing 95454544 to 99999999
+Processing 77272726 to 81818180
+Processing 13636363 to 18181817
+Processing 36363636 to 40909089
+Processing 90909090 to 95454543
+Processing 40909090 to 45454544
+Processing 4545454 to 9090908
+Processing 54545454 to 59090907
+Processing 18181818 to 22727271
+Processing 9090909 to 13636362
+Processing 27272727 to 31818180
+Processing 0 to 4545453
+Processing 59090908 to 63636362
+Processing 31818181 to 36363635
+Processing 72727272 to 77272725
+Processing 81818181 to 86363634
+Processing 49999999 to 54545453
+Processing 68181817 to 72727271
+Processing 63636363 to 68181816
+Processing 22727272 to 27272726
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 10.091878617997281s
+Processing number combinations concurrently
+Processing 86363635 to 90909089
+Processing 36363636 to 40909089
+Processing 72727272 to 77272725
+Processing 77272726 to 81818180
+Processing 90909090 to 95454543
+Processing 81818181 to 86363634
+Processing 31818181 to 36363635
+Processing 27272727 to 31818180
+Processing 95454544 to 99999999
+Processing 4545454 to 9090908
+Processing 22727272 to 27272726
+Processing 45454545 to 49999998
+Processing 13636363 to 18181817
+Processing 18181818 to 22727271
+Processing 9090909 to 13636362
+Processing 0 to 4545453
+Processing 54545454 to 59090907
+Processing 68181817 to 72727271
+Processing 49999999 to 54545453
+Processing 63636363 to 68181816
+Processing 40909090 to 45454544
+Processing 59090908 to 63636362
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 9.615428347999114s
+Processing number combinations concurrently
+Processing 95454544 to 99999999
+Processing 49999999 to 54545453
+Processing 90909090 to 95454543
+Processing 13636363 to 18181817
+Processing 86363635 to 90909089
+Processing 81818181 to 86363634
+Processing 9090909 to 13636362
+Processing 40909090 to 45454544
+Processing 18181818 to 22727271
+Processing 68181817 to 72727271
+Processing 4545454 to 9090908
+Processing 54545454 to 59090907
+Processing 31818181 to 36363635
+Processing 63636363 to 68181816
+Processing 77272726 to 81818180
+Processing 27272727 to 31818180
+Processing 0 to 4545453
+Processing 72727272 to 77272725
+Processing 22727272 to 27272726
+Processing 36363636 to 40909089
+Processing 45454545 to 49999998
+Processing 59090908 to 63636362
+Waiting for chunks to finish
+PASSWORD CRACKED: 87654321
+PROCESS TIME: 10.086932883001282s
+Script: password_cracking_sequential.py
+  実行回数: 10
+  平均実行時間: 75.717809 秒
+  分散: 5.545087
+
+Script: password_cracking_sequential_refactor.py
+  実行回数: 10
+  平均実行時間: 70.598832 秒
+  分散: 3.505208
+
+Script: password_cracking_async.py
+  実行回数: 10
+  平均実行時間: 52.651150 秒
+  分散: 1.776518
+
+Script: password_cracking_parallel.py
+  実行回数: 10
+  平均実行時間: 80.627301 秒
+  分散: 24.385647
+
+Script: password_cracking_concurrency.py
+  実行回数: 10
+  平均実行時間: 9.633386 秒
+  分散: 0.089179
+
+Script: password_cracking_thread_pool.py
+  実行回数: 10
+  平均実行時間: 9.843341 秒
+  分散: 0.059630
+

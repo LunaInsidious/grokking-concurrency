@@ -36,6 +36,7 @@ def main():
         "password_cracking_async.py",
         "password_cracking_parallel.py",
         "password_cracking_concurrency.py",
+        "password_cracking_thread_pool.py",
     ]
     trials = 10  # 実行回数
 

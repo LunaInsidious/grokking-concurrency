@@ -2,6 +2,7 @@
 # 並列処理版
 import hashlib
 import math
+import multiprocessing
 import time
 import typing as T
 from concurrent.futures import ProcessPoolExecutor, as_completed
@@ -46,10 +47,19 @@ def get_valid_combinations_parallel(
     crypto_hash: str,
     min_number: int = 0,
     max_number: T.Optional[int] = None,
-    chunk_size: int = 10_000,
+    chunk_size: T.Optional[int] = None,
 ) -> T.Optional[str]:
     if max_number is None:
         max_number = int(math.pow(10, length)) - 1
+
+    if chunk_size is None:
+        available_cpu_num = multiprocessing.cpu_count()
+        chunk_size = (max_number + 1) // available_cpu_num
+        print(
+            f"Chunk size: {chunk_size}"
+            f" (available CPU cores: {available_cpu_num})"
+            f" (total range: {max_number + 1})"
+        )
 
     chunk_ranges = make_chunks(min_number, max_number, chunk_size)
 
