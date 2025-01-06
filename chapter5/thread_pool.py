@@ -3,6 +3,7 @@ import queue
 import typing as T
 from threading import Thread, current_thread
 
+# 可変長引数を取り、Noneを返す
 Callback = T.Callable[..., None]
 Task = T.Tuple[Callback, T.Any, T.Any]
 TaskQueue = queue.Queue
