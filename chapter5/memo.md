@@ -1,3 +1,7 @@
+## Pythonのスレッド
+
+[Thread State and the Global Interpreter Lock](https://docs.python.org/3/c-api/init.html#thread-state-and-the-global-interpreter-lock)
+
 ## アドレスファミリ
 
 AF_INET(IPv4),AF_INET6(IPv6),AF_UNIX(local to host (pipes, portals))くらいしか使わないらしい

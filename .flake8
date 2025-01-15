@@ -1,2 +1,4 @@
 [flake8]
+; E203: Whitespace before ':' (black compatibility)
+ignore = E203
 max-line-length = 88
