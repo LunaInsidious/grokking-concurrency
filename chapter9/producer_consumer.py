@@ -1,4 +1,3 @@
-#!/usr/bin/env python3.9
 import time
 from threading import Thread, Semaphore, Lock
 
